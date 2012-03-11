@@ -7,6 +7,10 @@
 
 Requires pdftk: http://www.pdflabs.com/docs/install-pdftk/
 
+## Installation
+
+    npm install -g pagemaster
+
 ## Usage
 
     Usage: pagemaster <in.pdf> <out.pdf> [PDF length]
