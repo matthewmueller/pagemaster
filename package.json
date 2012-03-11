@@ -1,6 +1,6 @@
 {
     "name": "pagemaster"
-  , "version": "0.0.2"
+  , "version": "0.0.3"
   , "description": "Consumes a PDF, executes magic, returns book"
   , "keywords": ["book", "pdf", "pdftk", "generator"]
   , "author": "Matt Mueller <mattmuelle@gmail.com>"
