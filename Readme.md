@@ -3,6 +3,16 @@
 
   Consumes a PDF, executes magic, returns book
 
+## Dependencies
+
+Requires pdftk: http://www.pdflabs.com/docs/install-pdftk/
+
+## Usage
+
+    Usage: pagemaster <in.pdf> <out.pdf> [PDF length]
+
+> Note: PDF length is optional, if it's not specified, pagemaster will look in PDF for page length.
+
 ## License 
 
 (The MIT License)
