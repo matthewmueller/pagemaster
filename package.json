@@ -1,0 +1,11 @@
+{
+    "name": "pagemaster"
+  , "version": "0.0.1"
+  , "description": "Consumes a PDF, executes magic, returns book"
+  , "keywords": ["book", "pdf", "pdftk", "generator"]
+  , "author": "Matt Mueller <mattmuelle@gmail.com>"
+  , "dependencies": {}
+  , "main": "index"
+  , "bin" : { "pagemaster" : "./bin/pagemaster" }
+  , "engines": { "node": "0.6.x" }
+}
