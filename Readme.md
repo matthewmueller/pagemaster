@@ -1,7 +1,7 @@
 
 # pagemaster
 
-  Consumes a PDF, executes magic, returns book
+  Consumes a PDF, executes magic, returns book. Currently, requires a double-sided printer and 2 pages per sheet to be set. 
 
 ## Dependencies
 
